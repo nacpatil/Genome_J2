@@ -11,6 +11,7 @@
 *.sln.docstates
 *.bed
 *.pyproj
+*.sln
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
