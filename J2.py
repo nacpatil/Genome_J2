@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 import os
 import psutil
 
-print(chrdict) 
 
 start_time = time.time()
 
